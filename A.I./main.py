@@ -5,3 +5,5 @@ import numpy as np
 
 
 # Back propagation
+
+# Updating the parameters
