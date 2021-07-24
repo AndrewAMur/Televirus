@@ -30,7 +30,7 @@ def init_params():
     b2 = np.random.rand(10, 1) - 0.5
     return W1, b1, W2, b2
 
-def ReLU():
+def ReLU(Z):
     return np.maximum(Z, 0)
 
 def softmax(Z):
