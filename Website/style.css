@@ -5,10 +5,3 @@ a:link, a:visited, a:hover, a:active {
     background-color: transparent;
     text-decoration: none;
 }
-
-.footer {
-    background-color: black;
-}
-p.footer {
-    color: white;
-}
